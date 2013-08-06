@@ -1,2 +1,1 @@
-DEMO
-====
+My own projects for test!
